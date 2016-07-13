@@ -29,13 +29,13 @@ slides:
 
 
     - content: |
-      
+
         | Assessment          | Percentage  | Details
         | ----------          | ----------  | -------
         | Quizzes and Badges  | 20%         | Students will demonstrate that they are proficient at applying specific skills in a new context
-        | Peer Review         | 20%         | ~300 words; Students will be assessed on how effective their peer review to other is
+        | Peer Review         | 20%         | ~300 words; Students will be assessed on effectiveness of their peer review to others
         | Project Management  | 20%         | based on project-set milestones
-        | Final report        | 40%         | ~2,500 - Will consist in a report follwing the format of a ‘scientific software’ publication 
+        | Final report        | 40%         | ~2,500 - Will consist in a report following the format of a ‘scientific software’ publication
 
 
 
@@ -67,13 +67,13 @@ slides:
 
       notes: |
 
-        This is different from most courses, where quizzes are often worth a small percentage each. 
+        This is different from most courses, where quizzes are often worth a small percentage each.
 
         In this course each quiz is worth nothing individually, but achieving a 100% pass in every quiz will earn you the full 10% assigned to the quiz portion of the course assessment.
 
     - content: |
 
-        Quizzes are done online, and you have 
+        Quizzes are done online, and you have
         unlimited tries to achieve 100%.
 
       notes: |
@@ -144,7 +144,7 @@ slides:
 
         All quizzes = 10%
 
-        All compulsory badges 
+        All compulsory badges
         + 10 elective badges = 10%
 
 
